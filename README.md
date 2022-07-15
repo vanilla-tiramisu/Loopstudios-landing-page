@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [github-page](https://vanilla-tiramisu.github.io/Loopstudios-landing-page/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 ### What I learned
 1. z-index can be only applied to posited elements.
 2. `<picture>`, the new element in HTML5 for pics in different sizes
-3. to find the details on the design draft
+3. An `<img>` element has no pseudo-elements
 4. the most important, patience 
 ### Continued development
 Actually I've totally lost my patience after finishing the project.
@@ -55,5 +55,5 @@ Layout, position, pseudo-elements... and so on. Step by step.
 GitHub and so on
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@vanilla-tiramisu](https://www.frontendmentor.io/profile/vanilla-tiramisu)
 
